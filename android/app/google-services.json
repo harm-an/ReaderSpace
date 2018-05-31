@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "127043446914",
+    "firebase_url": "https://readerspacefinal-1525718483920.firebaseio.com",
+    "project_id": "readerspacefinal-1525718483920",
+    "storage_bucket": "readerspacefinal-1525718483920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127043446914:android:b2f8ef5f916f0d83",
+        "android_client_info": {
+          "package_name": "com.readerspacefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127043446914-rsn43o7f3eofbdd4fblh670d0n4dm6b3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "127043446914-v5i0ifaf259ilhokdkktcfpa201tn2i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.readerspacefinal",
+            "certificate_hash": "9a75be5789a1362fcd062d43679141a5266b7e11"
+          }
+        },
+        {
+          "client_id": "127043446914-pfpc9fjvk5j2amusa1u7ev797ri9eub1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqlGLVWv-R7NxJr8JlWDHc_gjoLTWdzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127043446914-rsn43o7f3eofbdd4fblh670d0n4dm6b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
